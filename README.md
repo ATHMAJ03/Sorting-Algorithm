@@ -69,7 +69,9 @@ print(list_of_nums)
 ```
 
 ## Output:
+Using the Selection Sort algorithm.
 ![selectionsort](https://user-images.githubusercontent.com/118753139/214106839-d7f7fdda-fb93-4d3e-a3d7-7775fb26aa4c.png)
+Using the Insertion Sort algorithm.
 ![insertionsort](https://user-images.githubusercontent.com/118753139/214106931-96486fa7-c709-4c18-a030-a34f7593229e.png)
 
 
